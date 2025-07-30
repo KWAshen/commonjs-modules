@@ -1,6 +1,6 @@
 const fullname = (fistname,lastname) => {
   return{
-    fistname,
+    fistname ,
     lastname
   }
 }
